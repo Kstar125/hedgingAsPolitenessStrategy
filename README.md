@@ -1,6 +1,6 @@
 ﻿# hedgingAsPolitenessStrategy
 
-The hedgingAsPolitenessStrategy project uses text corpus data and identifies statistically significant differences in the usage of hedging words in terms of age and gender. 
+The hedgingAsPolitenessStrategy project uses Reddit AITA text corpus data and identifies statistically significant differences in the usage of hedging words in terms of age and gender. 
 
 ## Basic Idea
 
